@@ -1,0 +1,85 @@
+/*
+* jQuery Mobile Framework v1.2.0
+* http://jquerymobile.com
+*
+* Copyright 2012 jQuery Foundation and other contributors
+* Released under the MIT license.
+* http://jquery.org/license
+*
+*/
+
+#product-list h1 {
+	font-size: 16px;
+	padding-left: 10px;
+	color: #5a098c;
+	font-weight: normal;
+}
+
+.product-list-overview div p {
+    font-size:10px;
+    font-weight: bold;
+}
+
+.product-list-overview div p.reviews {
+    margin:-5px 0px 0px;
+}
+
+.product-list-overview a {
+    float: left;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.product-list-snippet {
+	width: 215px;
+    float: right;
+    margin-top: -5px;
+}
+
+.product-list-snippet h3{
+	font-size: 10px;
+}
+
+hr {
+    clear: both;
+	padding: 5px 0px;
+	visibility: hidden;
+}
+
+.unit-thumb {
+    
+}
+
+.energy-star-list {
+    position: absolute;
+    width: 20px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+
+
+.mobile-footer {
+	padding: 15px;
+	font-size: .6em;
+}
+
+
+
+/******* Product Container ******/
+
+
+
+
+#product-container .productTitle {
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 10px;
+    color: #5a098c;
+}
+
+#product-sample img{
+    max-width: 100%;
+    width: 127px;
+}
+
