@@ -76,10 +76,18 @@ hr {
     font-weight: 400;
     padding-left: 10px;
     color: #5a098c;
+    padding-right:5px;
 }
 
 #product-sample img{
     max-width: 100%;
     width: 127px;
+}
+
+
+
+.ui-content {
+    margin: 35px 0;
+    padding-left: 0;
 }
 
