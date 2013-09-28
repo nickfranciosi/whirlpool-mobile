@@ -1,5 +1,6 @@
 /*
 * THIS IS JIMMY AND THIS IS A TEST
+* This is Dave - Changed #product-list h1 font-size
 * jQuery Mobile Framework v1.2.0
 * http://jquerymobile.com
 *
@@ -10,7 +11,7 @@
 */
 
 #product-list h1 {
-    font-size: 16px;
+    font-size: 18px;
     padding-left: 10px;
     color: #5a098c;
     font-weight: normal;
